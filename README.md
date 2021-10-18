@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <!--
-**Adityatiwar1/Adityatiwar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adityatiwari23/adityatiwari23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
 
 <p align="center">
-<br/> <a href="https://github.com/Adityatiwar1"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  
+<br/> <a href="https://github.com/adityatiwari23"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  
       <a href="https://twitter.com/AdityaTiwari02"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AdityaTiwari?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@AdityaTiwari02"></a>
 </p>
 
